@@ -1,0 +1,13 @@
+bars-or-spot	2
+nitems	26
+radius	7
+ms-fixation	500
+ms-cueduration	100
+ms-prestimblank	500
+ms-stimon	150
+cue-length	3
+catch-p	0.25
+cue-noise-0	0
+cue-noise-1	0.5
+cue-noise-2	1
+ntrials	400

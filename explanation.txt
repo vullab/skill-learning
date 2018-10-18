@@ -1,0 +1,38 @@
+skif1:
+- reliable cues during training
+- unreliable cues during testing
+- inference test: which is going to come next?
+- conditions: cue onset time: -400 or 400 msec
+- in paper: E3
+
+skif 2:
+- same as skif1
+- cue onset time: -400 or 400 msec
+- TODO: what's with the really negative RTs?
+- in paper: E4
+
+
+traintype:
+- E1
+- random, p(rep) = 0.85, p(rep) = 1.0, Precue
+
+traintype3:
+- E2.  E+, E-, H+
+
+skill-learn-3:
+- E+, E-, H+, H-, M
+
+skill-learn-4:
+- M condition from skill-learn-3
+
+skill-learn-5:
+- same as s-l-3... afaict
+
+
+******************************
+SKILL 3
+training conditions
+  {Easy [-400ms precue] or hard [-0ms precue]}
+  X {positive [same mapping for train and test] or negative [different mapping]}
+test conditions
+  Hard (no precue)

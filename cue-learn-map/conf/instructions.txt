@@ -1,0 +1,17 @@
+In this experiment, you will have to identify colors and letters. 
+In each trial, a line will point to the letter we want you to identify. 
+Your job is to identify the letter and the color of the cued "target". 
+
+However you should NOT move your eyes from the fixation spot in 
+the center of the screen. 
+
+Use the numbers on your keyboard to select the correct answer
+to each question. 
+
+You will receive 1 point for correctly identifying 
+the color of each target, and 1 point for correctly identifying 
+the letter. Remember, it is important that you do not move your 
+eyes from the fixation spot. 
+
+Good luck!
+

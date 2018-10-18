@@ -1,0 +1,6 @@
+cue-noise-0,cue-noise-1,cue-noise-2,radius,catch-p,ntrials,ms-fixation,RT,ms-stimon,SRmap_1,SRmap_0,SRmap_3,SRmap_2,SRmap_5,bars-or-spot,correct,SRmap_4,nitems,ms-prestimblank,curstim,correct_response,ms-cueduration,response,condition,cue-length,ms-precue
+0.0,0.5,1.0,7.0,0.25,400.0,500.0,0.620390892029,150.0,3,2,1,0,5,2.0,0,4,26.0,2000,0,2,100.0,[],H+,3.0,0
+0.0,0.5,1.0,7.0,0.25,400.0,500.0,1.37271308899,150.0,3,2,1,0,5,2.0,0,4,26.0,2000,0,2,100.0,[],H+,3.0,0
+cue-noise-0,cue-noise-1,cue-noise-2,radius,catch-p,ntrials,ms-fixation,RT,ms-stimon,SRmap_1,SRmap_0,SRmap_3,SRmap_2,SRmap_5,bars-or-spot,correct,SRmap_4,nitems,ms-prestimblank,curstim,correct_response,ms-cueduration,response,condition,cue-length,ms-precue
+0.0,0.5,1.0,7.0,0.25,400.0,500.0,0.00142192840576,150.0,5,4,0,2,3,2.0,1,1,26.0,1000,5,3,100.0,3,E+,3.0,1000
+0.0,0.5,1.0,7.0,0.25,400.0,500.0,0.0228140354156,150.0,5,4,0,2,3,2.0,1,1,26.0,1000,0,4,100.0,4,E+,3.0,1000

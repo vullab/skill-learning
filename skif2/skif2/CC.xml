@@ -1,0 +1,8 @@
+<GRAMMAR LANGID="409">
+     <RULE name="Proctor" toplevel="Active">
+          <L PROPNAME="Tones">
+		<P VALSTR="high">high</P>
+		<P VALSTR="low">low</P>
+	  </L>
+        </RULE>
+</GRAMMAR>

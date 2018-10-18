@@ -1,0 +1,22 @@
+sids = [1:90];
+
+for i =[1:length(sids)]
+    sud = sids(i);
+    fr = fopen(sprintf('%d.xls', sud), 'r');
+    fw = fopen(sprintf('p_%d.txt', sud), 'w');
+
+    line = fgetl(fr);
+    line = fgetl(fr);
+
+    while(ischar(line))
+        line = regexprep(line, '  ', ' ');
+        line = regexprep(line, '  ', ' ');
+        line = regexprep(line, '  ', ' ');
+
+        line = regexprep(line, '  ', '\t');
+        fprintf(fw, '%s\n', line);
+        line = fgetl(fr);
+    end
+    fclose(fr);
+    fclose(fw);
+end

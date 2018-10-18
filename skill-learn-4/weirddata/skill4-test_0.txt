@@ -1,0 +1,6 @@
+RT,correct_response,ms-prestimblank,curstim,correct,SRmap_1,SRmap_0,SRmap_3,SRmap_2,SRmap_5,SRmap_4,ms-precue,ntrials,type,response,condition
+1737.84279823,2,1000,3,1,1,3,2,0,5,4,0,250.0,train,2,M
+778.288841248,3,1000,0,1,1,3,2,0,5,4,0,250.0,train,3,M
+698.385953903,4,1000,4,1,1,3,2,0,5,4,0,250.0,train,4,M
+218.281030655,5,1000,5,0,1,3,2,0,5,4,0,250.0,train,4,M
+521.216869354,5,1000,5,1,1,3,2,0,5,4,0,250.0,train,5,M

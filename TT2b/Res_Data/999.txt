@@ -1,0 +1,12 @@
+#TrainType2B  -  Started: 5/7/2007 7:45:26 PM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	1	60, 60, 60	Z	C	I	762	1969	
+999	1	2	1	50, 50, 50	C	X	I	3416	1138	
+999	1	3	1	80, 80, 80	X	.	I	822	1097	
+999	1	4	1	70, 70, 70	,	,	C	1185	1035	
+999	1	5	1	50, 50, 50	Z	X	I	868	1746	
+999	1	6	1	80, 80, 80	,	.	I	8019	1075	
+999	1	7	1	80, 80, 80	,	.	I	5047	1971	
+999	1	8	1	70, 70, 70	Z	,	I	691	1904	
+#TrainType2B  -  Started: 5/7/2007 7:57:47 PM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	

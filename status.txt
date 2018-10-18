@@ -1,0 +1,304 @@
+2014-04-23
+- skill-learn-3 faulty testing session.
+
+Our discussion
+(1) Tinker with expts 2 and 4 to get more convincing results out of them, which could amount to simply running them with more subjects.  
+
+For expt 4 (learning stimulus-response association to cues that follow
+the target), I have fewer ideas.
+
+I think it would be useful to try to magnify the strength of the
+effect, and I suggest we do this by making people respond faster --
+e.g., within 400 msec -- to push the slight RT effect into an accuracy
+effect. We could add two more conditions to this that have +600/-600
+pre-cueing but also add a secondary task, as Tim suggests, to provide
+some plausible explanation for why the colored backgrounds appear at
+all.
+
+Reviews:
+
+
+Your introduction seems cursory (rather than concise); 
+methods are insufficiently described; 
+Exps 1 and 3 are essentially pilot experiments for Experiments 2 and 4 and, given the weaknesses you yourselves identify, it is not clear that their inclusion adds
+value; 
+analysis and presentation of the results of Experiments 2 and 4 are
+insufficient. 
+Most important, although you do in the Discussion relate your
+findings to some literature on implicit and associative learning, there is much
+that is missing in this survey: your finding of incidental/effortless S-R
+learning in this paradigm seems neither as novel nor as heterodox in relation to
+current theories as you appear to be claiming.
+
+In your (unusually brief) introduction , you appear to assert that the interest
+of the incidental learning that you demonstrate in this paper is that it is in
+counterpoint to a general assumption that all learning is effortful and/or
+requires intention. This is surely far from the general assumption in
+contemporary psychology. The reviewers nominate some examples to the contrary.
+More generally there is a strong associationist/connectionist tradition that
+views the brain as a dumb learning machine that automatically associates
+whatever elements it encounters, without any particular effort or intention
+(other than perhaps attention) whether to form abstract representations of
+categories, or learn words, or to learn sequences (as mentioned by a couple of
+reviewers) or to bind together elements of an episode (including response), as
+in theories of event-coding (Hommel et al), or in Logan (1988)-type theories of
+automatization of response generation. Note that the last two of these are
+explicitly theories about associations between stimulus elements and responses. 
+
+The elements in your Experiments 1 and 2 that the participant apparently learns
+to associate to the response are not irrelevant to their task. The participant
+must attend to the letter/symbol as a signal to initiate the response even when
+it is completely predictable. And the letter/symbol is a valid predictor of the
+response. Who would predict that one would not learn something about that
+relationship (if less than when there is no other predictor)?
+
+Exp 1 compares the later performance of people trained in the easy conditions of
+Exp 1 to the early performance of the difficult group. As you point out
+yourself, this is an inappropriate comparison, because of all the other ways in
+which performance may benefit from practice. It is unclear why you included this
+experiment.
+
+The "easy-negative" condition of Exp 2 is inadequately described: was the
+incorrect pairing of symbol to response in the "easy negative" condition
+consistent? I assume it was, or there would be nothing to learn for the transfer
+test. Was the symbol presented in the same locus as the digit? If the symbol was
+thus (additionally) predictive of the correct response, and presented at the
+focus of attention, who would not predict some learning, albeit less that in the
+difficult condition (due to blocking - see Reviewer 1)?
+
+Exp 3. As the reviewers note, this experiment seems an imperfect pilot to Exp 4;
+why include it? The description of the methods for this experiment (and hence
+Exp 4 also) is again substandard. What are the visual characteristics (size?
+position? colour?) of these symbols and background cues? Did the stimulus
+replace the pre-cue, or was it superimposed? Did the postcue appear behind the
+stimulus, or replace it? Feedback? Intertrial interval?
+
+Exp 4. The hot news here, apparently, is that there was evidence of some
+learning of 90% valid cue-response relations even when the cue followed the
+response. You consider that finding learning under these conditions challenges
+the contiguity principle. An assumption you appear to be making is that response
+selection and execution stops the instant one presses a response key, and hence
+that no response representation is still available for formation of associations
+to the cue that then appears. However, everything we know about performance
+monitoring (e.g. the fact that subjects detect many of their own errors in RT
+experiments) suggests that response selection is still being computed or checked
+well beyond the execution of a response. So the temporal spread of the "response
+trace" available for association is not perhaps as limited as you assume. Also,
+I seem to recall that transient effects of associative priming from response
+effects have been found even though the effect follows the response, suggesting
+bidirectional associations (Hommel); I don't know if anyone has looked at
+longer-term effects of cumulative learning of this kind.
+
+I hope you find this feedback, critical though a lot of it is, useful as you
+take this potentially interesting work forward.
+
+With best wishes
+
+Stephen Monsell 
+Associate Editor, JEP:G
+
+Please visit the following address to acknowledge receipt of this letter: 
+http://www.jbo.com/jbo3/B.cfm?id=126542&cid=914386
+
+REVIEWS
+
+Reviewer 1
+
+Review of MS. 2009-0418 for JEP:Gen
+Plenty of gain with minimal pain: Learning cues to actions without trying
+
+By: Edward Vul, Timothy Rickard and Harold Pashler
+
+This paper makes the interesting claim that learning can take place when a cue
+is paired with an action induced by something other than the cue. The effect is
+for the cue to come to prime the action. A series of four experiments are used
+to gradually demonstrate the basic effect, and to show that it is not due to
+simple motor facilitation (if the cue primes the wrong response then it has a
+detrimental effect on performance). Evidence is also presented that the cue can
+actually come after the induced action and yet some learning of the cue-action
+relationship is learned. The finding is discussed in the context of other
+paradigms, notably the Kamin blocking effect and backward conditioning
+preparations, which seem to provide quite contradictory evidence with regard to
+the incidental cue-outcome learning demonstrated in this paper.
+
+Let me say straight away that these are potentially interesting findings. The
+first question I would ask is whether the paper is suitable for JEP:General, and
+in this case I think a lot would be gained by transferring to another journal,
+specifically JEP:ABP. Whilst JEP:LMC might also have been thought a suitable
+alternative (and this plurality of alternatives may have been the rationale
+behind submitting to General in the first place), there is no doubt in my mind
+that Animal Behavior Processes is the right home for this paper. The key thing
+is that the Editor and reviewers for that journal would be best placed to assess
+its merits, particularly the current Editor. I suspect that there is a lot of
+material that a scholar of associative learning could bring to bear in
+discussing these results which go far beyond the discussion offered in the paper
+and would bring out what was genuinely novel and what was not. I also believe
+that ABP would target the correct audience. 
+
+The next issue is whether the results in this paper are secure. The first thing
+to say about this is that the (quite understandable) desire to be economical
+with the controls and make the early training data for the difficult condition
+serve this purpose was misplaced. A control, which was given equivalent training
+to that used in the experimental conditions but employed different stimuli and
+responses, and was then transferred to the common test phase would have allowed
+us to gain some sense of how much had been learned in all conditions. As it is,
+the results of Experiment 1 are hard to interpret, and the use of 1-tail tests
+is hard to justify here. Experiment 2 goes some way to addressing this point, it
+replicates some of the effects found in Experiment 1 and shows that an
+inappropriate S-R mapping slows performance on test (slows it more) when
+compared to the appropriate mapping. This is a key result and I'd have liked a
+more detailed analysis of it - we only get some comparisons. Is the Easy
+Negative condition slower than control on test? It would be good to have a
+proper control, but is it worse than the initial blocks of the Difficult
+condition? We are only given the one comparison between Easy Negative and Easy
+Positive - this is not enough to understand the patterns in the data. We need to
+know if the effect on Easy Negative is to simply leave things as though no
+training had taken place, or to make things worse than if no training had taken
+place.
+
+Turning to the Easy Positive condition, we are told that in the first test block
+it was slower than the Difficult condition, indicating that being trained on the
+mappings all along, rather than just experiencing stimulus with response (the
+response being induced or specified by another stimulus), is a more effective
+procedure. This replicates a finding of Experiment 1, and would seem a good
+point at which to discuss blocking. The author's discuss blocking later, state
+quite correctly that it implies that simple contiguity is not enough to
+guarantee learning and point out that their results contradict this claim. They
+do not. Blocking has an A+, AB+ design, and learning to B will be weaker than in
+a suitable control (A, AB+ has been used, where A denotes simple exposure, or
+C+, AB+ can be employed). In these experiments a stimulus (typically a digit) is
+used as A, and the fact that we can instruct participants that this digit maps
+onto a specific key (1 is the first key etc) means that in effect the
+pre-training of A+ has already been done. Then the trials are effectively
+digit+symbol leads to response. We would expect the digit to block the symbol.
+It does, and so there is nothing here to contradict blocking (i.e. Easy Positive
+worse on first test trial than Difficult). The fact that there is some learning
+to the symbol is not surprising in itself - blocking is typically not complete.
+In fact, this is one of the better demonstrations of blocking that I've seen!
+
+As the authors note, a somewhat severe interpretation of Experiment 3 is that it
+is flawed by the guessing test (which is explicit training), which leaves the
+results of Experiment 4 to really carry this part of the paper. Unfortunately
+these are quite a bit weaker than Experiment 3 (this always seems to happen!).
+In particular, there seems to be a hint of disagreement between the effect for
+Rts and Errors for the crucial +600 condition. Hence the claim could be made
+that the evidence for learning when the stimulus came after the response is not
+secure. On this point, it's good to have the error and RT data - but where were
+the errors for the earlier experiments?
+
+My feeling is that these points could be dealt with in part by more detailed
+analysis and by running suitable controls and by replicating Experiments 2 and
+4. If this were done, then we might have something suitable for publication.
+
+
+Reviewer 2
+
+The authors report four experiments testing the possibility of incidental
+stimulus-response learning. In the first experiment, letters were presented
+visually and were mapped onto specific responses. In four conditions, subjects
+either always needed to rely on the letter to respond, sometimes needed to rely
+on the letter to respond (the previous response often repeated), or never needed
+to rely on the letter to respond (the response was always the same, or the
+response was pre-cued). Performance in a transfer test in which the letters were
+needed revealed learning in all conditions. In the second experiment, the
+authors demonstrated that presenting symbols that do not match the required
+response in the pre-cued training condition led to slowed (correct) responses to
+symbols at test. The third and fourth experiments demonstrated that an
+irrelevant symbol presented following a response can nevertheless be tied to
+that response, and facilitate responses at test. These results provide robust
+evidence that stimulus-response pairings can be learned observationally, without
+ever having required a response to the stimulus.
+
+This paper convincingly demonstrates an interesting and novel effect. The
+experiments are clever and well-designed (although Experiment 3 has little
+utility beyond a replication). The writing is clear and engaging, and the
+discussion draws interesting connections with diverse literatures. There is
+little to quibble with in terms of the design and analysis of the experiments,
+but where the manuscript is currently lacking is in the framing and
+interpretation of the study. Several comments are provided below.
+
+First, the paper and general research question are framed as highly original,
+both in the global sense of the role of effort/deliberation in learning, and in
+the local sense of incidental learning of task-irrelevant cues. There is some
+truth in the details, but these general areas of research have long and
+worthwhile histories. For example, early research on artificial grammar learning
+revealed that effort was not only unnecessary (as reported here), but actually
+hurts performance (Reber, 1976, JEP:HLM). Moreover, the necessity of
+stimulus-based response selection for learning has been studied extensively in
+the domain of sequence learning. For example, a sequence of irrelevant spatial
+locations can be learned while subjects respond to the identity of objects that
+follow their own uncorrelated order (Mayr, 1996, JEP:LMC). While these papers
+temper some of the novelty of this work, the paper would nevertheless benefit
+from being better situated in (and motivated by) past work.
+
+Relatedly, the goal of looking at the necessity of "deliberate effort" in
+stimulus-response learning seemed a little odd. In particular, it's unclear what
+exactly is meant by effort -- or rather, whether 'effort' is the best way to
+characterize the difference between conditions. Consider Experiment 2 in which
+differences in RT are observed during training, and provide a possible signature
+of difficulty. The task is essentially the same, however, for the hard and easy
+conditions: select a response on the basis of some cue (a symbol or a digit),
+and respond when the symbol appears. The RT differences thus reflect the advance
+preparation in the digit case. Arguably, the cue identification is also harder
+in the symbol case, but it would seem worth manipulating that variable (by
+degrading some symbols) in one wanted to make that claim. Nevertheless, the
+important point is that something is different in these cases (especially in the
+later post-cuing experiments): response selection depends on the symbols in one
+case and not the other, but subsequent symbol-based response selection at test
+is facilitated in both cases. This is a neat finding that would be better
+characterized in operational terms than by "effort", which connotes an
+inaccurate sense of exertion.
+
+Moreover, what can be concluded from the finding that incidental
+stimulus-response learning can occur? The authors properly urge caution is
+concluding that incidental learning is as good as deliberate learning. But such
+consideration implies that learning occurs over a continuum, with deliberate
+leading to a lot, and incidental leading to the same amount or less. However,
+the measure of learning is somewhat agnostic about two aspects of learning that
+seem important for interpreting the results. First, it is unclear whether
+learning of stimulus-response pairs occurs in the same way for task-relevant and
+incidental acquisition -- in the simplest sense, the timecourses of learning may
+differ. Second, it is unclear whether, despite equivalent facilitation at test,
+the knowledge acquired deliberately vs. incidentally is the same -- one could
+imaging that deliberate S-R learning is directional, but that incidental
+learning over various temporal asynchronies is more abstract (e.g., does making
+a response visually prime the corresponding symbol?). The authors would
+acknowledge these unknowns, as they do in terms of durability on page 14, but
+those sections could be expanded.
+
+Attempting to interpret the results from the perspective of learning theory was
+worthwhile, and blocking certainly is an example of the insufficiency of
+contiguity per se. In this context, the finding that cognitive load reduces
+blocking (De Houwer & Beckers, 2003, QJEP), may bolster discussion about a
+dissociation between knowledge and performance.
+
+Why was the explicit guessing test interspersed between the training and
+transfer test in Experiment 3? As the authors note, this may have induced
+unwanted strategies in the transfer test (although it is unclear how any
+correlations could be learned during the transfer test as claimed on page 12,
+given that the cues were un-predictive). Regardless, if the authors choose to
+report this experiment (which seems redundant with Experiment 4), it would be
+worth reporting the results of the explicit guessing test.
+
+The figure labels on pages 8 and 9 are wrong.
+
+Reviewer 3
+
+Review of JEP:G 2009-0418
+
+In their manuscript, "Plenty of gain with minimal pain?", Vul, Rickard, and Pashler present data demonstrating that there is some unintentional learning of cue-response relationships without such a relationship being required. Cues were simple stimuli and responses were single key presses. 
+
+First, let me apologize for the negative tone of this review. I had high expectations given the reputation of the authors, but the manuscript fell far short of these expectations. The manuscript read more like a preliminary draft than a paper worthy of publication. 
+
+At the outset, the paper caught me by surprise by having an introduction that was less than one page that included no citations. This was so unusual that I had to verify that the paper had not been submitted as a Brief Report and that the editorial policy for JEP:General had not changed regarding expectations for articles. In sum, the introduction was wholly inadequate for framing the subsequent experiments - there is no "free lunch" when it comes to the effort required to motivate a study before the reader jumps into method sections. Even after I read the introduction of Experiment 1 I was left in the dark regarding the methodology; the manuscript does not describe the "more direct basis for response selection" until the middle of the method section. 
+
+Furthermore, the first experiment lacked statistics and had obvious design flaws. The authors acknowledge those flaws in the introduction to Experiment 2 and run the obvious study to address them, but it made Experiment 1 superfluous. I was also left wondering why only one of the conditions, the pre-cued training, was tested in Experiment 2; were the medium and easy-blocked conditions not run, or were they run and failed to show the anticipated effect? Thus, Experiment 1 should be dropped. Likewise, Experiment 4 makes Experiment 3 unnecessary.
+
+Other oddities arose during the presentation of the results. Why were curves shown for the transfer test in Experiments 1 and 2 (see right side of Figures 1a and 2b and Figures 1b and 2c) but data were collapsed across the transfer test blocks for Experiments 3 and 4? Furthermore, the range of the y-axis scales varied considerably across figures with the most egregious example being Figures 3 and 4 where in the upper left figure the y-axis spans 350 to 750 ms or 800 ms and for the lower left it spans 0 to 600 ms; a similar large discrepancy is present for the accuracy figures. In addition, Figures 3 and 4 were very crowded. 
+
+The General Discussion attempted to correct for the failure to review the literature in the introduction, but the treatment was spotty and shallow. For example, there was no substantive discussion of the implicit learning literature (e.g., Nissen & Bullemer and subsequent treatments) where participants clearly learn stimulus relationships that were not explicitly trained. Furthermore, the animal conditioning research received inadequate treatment. Sensory preconditioning is the clearest example of learning of associations without specific action required. And, Ralph Miller has a long series of rat studies showing the learning of associations that were not explicitly reinforced (see any of the numerous tests of his comparator hypothesis). 
+
+Finally, there was no discussion of how the authors dealt with the non-Gaussian nature of RT data. Were data trimmed, transformed, analyzed non-parametrically, or handled in any other way to produce valid statistical analyses? The very small effect sizes during the transfer test make it imperative that the data were analyzed correctly. The analysis lacked the necessary details to judge their validity (e.g., where did the 190 dfs in the F-test come from - was this a repeated measures ANOVA, multilevel analysis, or something else? Was block used as a covariate?). 
+
+Details: 
+On p. 5, the example of "Prepare to make response 4" is nonsensical because this is not one of the legal responses according to the method section.

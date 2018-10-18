@@ -1,0 +1,6 @@
+You're half-way done!
+
+The mapping between symbols and buttons might now change -- if this 
+happens, be sure to learn the new response mapping quickly.
+
+Good luck!

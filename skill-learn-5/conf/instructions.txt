@@ -1,0 +1,17 @@
+In this experiment, you will have to quickly respond to symbols.
+
+On each trial, a symbol will appear, and you will have to make a response
+by pressing one of the keys S, D, F, J, K, L.  These correspond (from left
+to right) buttons 1, 2, 3, 4, 5, and 6.  Whenever a symbol appears, a 
+response key will be displayed at the bottom of the screen indicating 
+which symbols map on to which responses.
+
+You might be warned before the appearance of the symbol which button you 
+will have to press -- this will make your job easier.
+
+Half-way through the experiment, the mapping between symbols and responses
+might change -- if this happens, be sure to learn the new response mapping
+quickly.
+
+Good luck!
+

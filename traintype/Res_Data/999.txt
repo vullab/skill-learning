@@ -1,0 +1,86 @@
+#TrainType2  -  Started: 4/17/2007 10:38:27 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	1	B	.	.	C	1403	1437	
+999	1	2	1	K	Z	Z	C	557	1100	
+999	1	3	1	G	/	/	C	1037	1152	
+999	1	4	1	B	.	.	C	797	1898	
+999	1	5	1	V	X	X	C	833	1588	
+999	1	6	1	D	C	C	C	458	1128	
+999	1	7	1	K	Z	Z	C	412	1426	
+999	1	8	1	K	X	Z	I	308	1543	
+999	1	9	1	D	C	C	C	470	1053	
+999	1	10	1	B	.	.	C	634	1265	
+999	1	11	1	D	X	C	I	506	1209	
+999	1	12	1	V	X	X	C	428	1556	
+999	1	13	1	K	Z	Z	C	473	1869	
+999	1	14	1	S	.	,	I	747	1832	
+999	1	15	1	S	,	,	C	500	1389	
+999	1	16	1	B	.	.	C	449	1924	
+999	1	17	1	K	Z	Z	C	510	1897	
+999	1	18	1	S	,	,	C	750	1601	
+999	1	19	1	B	.	.	C	676	1932	
+999	1	20	1	S	,	,	C	753	1332	
+999	2	1	1	G	/	/	C	1067	1331	
+999	2	2	1	G	/	/	C	409	1301	
+999	2	3	1	V	X	X	C	540	1379	
+999	2	4	1	V	X	X	C	385	1674	
+999	2	5	1	K	X	Z	I	339	1190	
+999	2	6	1	G	C	/	I	469	1112	
+999	2	7	1	G	/	/	C	461	1354	
+999	2	8	1	S	,	,	C	626	1542	
+999	2	9	1	S	,	,	C	406	1824	
+999	2	10	1	K	Z	Z	C	482	1167	
+#TrainType2  -  Started: 4/17/2007 10:40:28 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	2	B	.	.	C	515	1254	
+999	1	2	2	B	.	.	C	302	1977	
+999	1	3	2	B	.	.	C	268	1460	
+999	1	4	2	V	.	X	I	168	1316	
+999	1	5	2	V	X	X	C	428	1804	
+999	1	6	2	V	X	X	C	337	1631	
+999	1	7	2	S	,	,	C	557	1226	
+999	1	8	2	D	/	C	I	443	1364	
+999	1	9	2	V	X	X	C	756	1483	
+999	1	10	2	G	/	/	C	589	1725	
+999	1	11	2	G	/	/	C	352	1667	
+999	1	12	2	K	X	Z	I	479	1187	
+#TrainType2  -  Started: 4/17/2007 10:41:16 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+#TrainType2  -  Started: 4/17/2007 10:41:29 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	3	V	X	X	C	836	1772	
+999	1	2	3	V	X	X	C	241	1780	
+999	1	3	3	V	X	X	C	206	1320	
+999	1	4	3	V	X	X	C	269	1191	
+999	1	5	3	V	X	X	C	261	1543	
+999	1	6	3	V	X	X	C	238	1277	
+999	1	7	3	V	X	X	C	231	1641	
+999	1	8	3	V	X	X	C	116	1043	
+999	1	9	3	V	X	X	C	273	1791	
+999	1	10	3	V	X	X	C	389	1368	
+999	1	11	3	V	X	X	C	268	1119	
+#TrainType2  -  Started: 4/17/2007 10:42:06 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	4	S	,	,	C	634	1344	
+999	1	2	4	S	,	,	C	286	1258	
+999	1	3	4	K	Z	Z	C	321	1006	
+999	1	4	4	B	.	.	C	242	1975	
+999	1	5	4	V	X	X	C	252	1262	
+999	1	6	4	S	,	,	C	226	1534	
+999	1	7	4	G	/	/	C	232	1674	
+999	1	8	4	V	X	X	C	257	1638	
+999	1	9	4	D	C	C	C	223	1178	
+#TrainType2  -  Started: 4/23/2007 4:50:30 PM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+#TrainType2  -  Started: 5/5/2007 11:34:09 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+#TrainType2  -  Started: 5/5/2007 11:38:48 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+#TrainType2  -  Started: 5/5/2007 11:39:40 AM	
+#SubID	Block	Trial	Condition	Display	Response	Correct_Response	Accuracy	RT	Intertrial_Interval_After_Response	
+999	1	1	1	S	Z	,	I	1361	1201	
+999	1	2	1	B	,	.	I	814	1009	
+999	1	3	1	G	.	/	I	1124	1148	
+999	1	4	1	D	C	C	C	798	1688	
+999	1	5	1	G	.	/	I	790	1653	
+999	1	6	1	S	,	,	C	3089	1766	

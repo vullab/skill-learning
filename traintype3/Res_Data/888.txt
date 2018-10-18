@@ -1,0 +1,4 @@
+#TrainType3  -  Started: 5/17/2007 12:25:17 AM	
+#SubID	Block	Trial	Condition	Digit	Picture	Response	Correct_Response	Accuracy	RT	
+888	1	1	1	4	3	X	M	I	605	
+888	1	2	1	3	6	Z	C	I	616	

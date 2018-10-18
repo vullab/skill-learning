@@ -1,0 +1,46 @@
+#SkIf 1  -  Started: 1/15/2007 3:57:18 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+999	4	1	3	1	2	2	-400	1	1	4	0	4	333	0	
+999	4	2	3	1	2	2	-400	1	2	4	0	2	204	1	
+999	4	3	3	1	2	2	-400	1	3	4	0	2	258	0	
+999	4	4	3	1	2	2	-400	1	3	3	0	2	431	0	
+999	4	5	3	1	2	2	-400	1	4	2	0	3	228	0	
+999	4	6	3	1	2	2	-400	1	4	2	0	4	153	1	
+999	4	7	3	1	2	2	-400	1	2	4	0	2	228	1	
+999	4	8	3	1	2	2	-400	1	2	4	0	4	290	0	
+999	4	9	3	1	2	2	-400	1	4	1	0	1	200	0	
+999	4	10	3	1	2	2	-400	1	4	1	0	1	351	0	
+999	5	1	3	1	2	2	-400	1	3	1	0	3	390	1	
+999	5	2	3	1	2	2	-400	1	2	2	0	2	204	1	
+999	5	3	3	1	2	2	-400	1	4	3	0	1	224	0	
+999	5	4	3	1	2	2	-400	1	2	4	0	2	355	1	
+999	5	5	3	1	2	2	-400	1	4	1	0	2	401	0	
+999	5	6	3	1	2	2	-400	1	1	1	0	1	430	1	
+999	5	7	3	1	2	2	-400	1	2	2	0	4	396	0	
+999	5	8	3	1	2	2	-400	1	1	4	0	2	607	0	
+999	5	9	3	1	2	2	-400	1	1	4	0	2	364	0	
+999	5	10	3	1	2	2	-400	1	4	1	0	3	427	0	
+#SkIf 1  -  Started: 1/15/2007 4:04:05 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+#SkIf 1  -  Started: 1/15/2007 4:04:45 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+999	4	1	1	3	4	2	400	1	2	2	0	1	38	0	
+999	4	2	1	3	4	2	400	1	1	4	0	4	-334	0	
+999	4	3	1	3	4	2	400	1	1	1	1	4	-328	0	
+999	4	4	1	3	4	2	400	1	2	2	0	3	-346	0	
+999	4	5	1	3	4	2	400	1	1	3	0	1	-357	1	
+999	4	6	1	3	4	2	400	1	3	4	1	2	-396	0	
+999	4	7	1	3	4	2	400	1	3	2	0	3	-302	1	
+999	4	8	1	3	4	2	400	1	2	1	0	4	-389	0	
+999	4	9	1	3	4	2	400	1	3	2	0	1	-303	0	
+999	4	10	1	3	4	2	400	1	4	2	1	4	-243	1	
+#SkIf 1  -  Started: 1/15/2007 4:08:47 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+#SkIf 1  -  Started: 1/15/2007 4:09:18 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+#SkIf 1  -  Started: 1/15/2007 4:10:37 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+#SkIf 1  -  Started: 1/15/2007 4:24:20 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
+#SkIf 1  -  Started: 1/26/2007 3:22:17 PM	
+#SubID	Block	Trial	Association 1	Association 2	Association 3	Association 4	Training Condition	Order Condition	Symbol	Pre Cue	Reliability	Response	RT	Accuracy	
